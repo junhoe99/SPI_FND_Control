@@ -36,7 +36,8 @@
 ## 🏗️ System Architecture
 
 ### 📊 Design Concept
-<img width="3440" height="1156" alt="image" src="https://github.com/user-attachments/assets/4c5853b7-a04a-46e3-ad50-08ac77880987" />
+<img width="3440" height="1152" alt="image" src="https://github.com/user-attachments/assets/32cec99e-312c-4d23-b3cf-d1aa41f2373b" />
+
 
 ### 📊 Block Diagram
 <img width="5472" height="2356" alt="image" src="https://github.com/user-attachments/assets/b992db17-b8fc-4072-9025-93b60e7521b3" />
